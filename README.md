@@ -1,2 +1,2 @@
 # raindrop-recognition-based-on-VGG-FCN
-the link of dataset we used:wget http://192.168.1.163:8008/dataset-video.zip
+the link of dataset we used:wget https://dataset-qst.obs.cn-north-4.myhuaweicloud.com/dataset-video.zip
